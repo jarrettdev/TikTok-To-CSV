@@ -5,3 +5,5 @@
 4. Scroll down the trending page to populate the list with GET requests.
 5. Save all as HAR.
 6. Run the script in the directory where the HAR is saved.
+
+*Note: Video download links expire* 
