@@ -1,6 +1,6 @@
 # TikTok-To-CSV
 
-### How to use:
+## How to use:
 
 1. Navigate to tiktok.com/trending
 2. Open the network tab in your browser's dev tools
@@ -10,3 +10,12 @@
 6. Run the script in the directory where the HAR is saved.
 
 *Note: Video download links expire* 
+
+
+## AJAX requests
+
+![](https://github.com/jarrettdev/TikTok-To-CSV/blob/master/resources/AJAX%20Requests.jpg)
+
+## CSV output example
+
+![](https://github.com/jarrettdev/TikTok-To-CSV/blob/master/resources/Example%20CSV.jpg)
