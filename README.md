@@ -1,4 +1,7 @@
 # TikTok-To-CSV
+
+### How to use:
+
 1. Navigate to tiktok.com/trending
 2. Open the network tab in your browser's dev tools
 3. Filter by 'api/item'
